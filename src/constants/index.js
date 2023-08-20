@@ -43,10 +43,6 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
-      icon: mobile,
-    },
-    {
       title: "Backend Developer",
       icon: backend,
     },
@@ -183,6 +179,27 @@ import {
   
   const projects = [
     {
+      name: "CryptoHunt",
+      description:
+        "A comprehensive platform for information and news related to cryptocurrencies and exchangesUsed Coinranking and Bing News Search Api to fetch data about different cryptocurrencies and dynamic coin exchanges and designed user interface.",
+      tags: [
+        {
+          name: "React",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "mongodb",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Tailwind Css",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: tripguide,
+      source_code_link: "https://github.com/PrateekParmar01/AI-StarPal",
+    },
+    {
       name: "Dashu",
       description:
         "Web-based Dashboard that allows users to manage their data. Provides better visualisations using pieCharts and graphs.",
@@ -225,25 +242,25 @@ import {
       source_code_link: "https://github.com/PrateekParmar01/ScrapIt",
     },
     {
-      name: "IIITL Beats",
+      name: "Ai-StarPal",
       description:
-        "An exclusive music web application for IIITL students.Contains latest as well as old songs and is free to use",
+        "Ultimate platform for creating and interacting with artificial intelligence companions.",
       tags: [
         {
-          name: "nextjs",
+          name: "next13",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "cockroachdb",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "shadcnUi",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/PrateekParmar01/MusiVerse/tree/master",
+      source_code_link: "https://github.com/PrateekParmar01/AI-StarPal",
     },
     {
       name: "WorkBuddy",

@@ -29,6 +29,10 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import aistarpal from "./aistarpal.png";
+import cryptohunt from "./cryptohunt.png";
+import dashu from "./dashu.png";
+import workbuddy from "./workbuddy.png";
 
 export {
   logo,
@@ -59,4 +63,8 @@ export {
   carrent,
   jobit,
   tripguide,
+  aistarpal,
+  cryptohunt,
+  dashu,
+  workbuddy
 };

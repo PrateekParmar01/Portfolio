@@ -21,9 +21,9 @@ import {
     tripguide,
     threejs,
     aistarpal,
-    cryptohunt,
     dashu,
-    workbuddy
+    workbuddy,
+    cryptohunt
   } from "../assets";
   
   export const navLinks = [

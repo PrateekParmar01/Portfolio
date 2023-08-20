@@ -20,6 +20,10 @@ import {
     jobit,
     tripguide,
     threejs,
+    aistarpal,
+    cryptohunt,
+    dashu,
+    workbuddy
   } from "../assets";
   
   export const navLinks = [
@@ -196,7 +200,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: cryptohunt,
       source_code_link: "https://github.com/PrateekParmar01/AI-StarPal",
     },
     {
@@ -217,7 +221,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
+      image: dashu,
       source_code_link: "https://github.com/PrateekParmar01/DashB",
     },
     {
@@ -259,7 +263,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: aistarpal,
       source_code_link: "https://github.com/PrateekParmar01/AI-StarPal",
     },
     {
@@ -280,7 +284,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: workbuddy,
       source_code_link: "https://github.com/",
     },
     {
